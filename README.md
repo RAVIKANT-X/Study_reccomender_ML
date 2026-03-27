@@ -54,9 +54,5 @@ Random Forest performed best due to its ability to handle non-linear relationshi
 
 ---
 
-## 🚀 How to Run
 
-### 1. Install dependencies
-```bash
-pip install pandas scikit-learn matplotlib streamlit
 
