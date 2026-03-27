@@ -1,0 +1,223 @@
+marks,attendance,study_hours,assignments_score,sleep_hours,action
+32,35,1,28,5,Focus on Weak Topics
+34,38,1,30,5,Focus on Weak Topics
+36,40,1,32,5,Focus on Weak Topics
+38,42,1,35,5,Focus on Weak Topics
+40,45,1,38,5,Revise Basics
+42,48,1,40,5,Revise Basics
+44,50,2,42,6,Revise Basics
+46,52,2,45,6,Revise Basics
+48,55,2,48,6,Revise Basics
+50,58,2,50,6,Practice More
+52,60,2,52,6,Practice More
+54,62,2,55,6,Practice More
+56,65,2,58,6,Practice More
+58,68,2,60,6,Practice More
+60,70,3,62,7,Practice More
+62,72,3,65,7,Practice More
+64,74,3,68,7,Practice More
+66,76,3,70,7,Do Advanced Questions
+68,78,3,72,7,Do Advanced Questions
+70,80,3,75,7,Do Advanced Questions
+72,82,3,78,7,Do Advanced Questions
+74,84,4,80,7,Do Advanced Questions
+76,85,4,82,7,Do Advanced Questions
+78,86,4,85,7,Maintain Performance
+80,88,4,88,8,Maintain Performance
+82,90,4,90,8,Maintain Performance
+84,91,4,92,8,Maintain Performance
+86,92,5,94,8,Maintain Performance
+88,94,5,96,8,Maintain Performance
+90,95,5,98,8,Maintain Performance
+31,36,1,30,5,Focus on Weak Topics
+33,38,1,32,5,Focus on Weak Topics
+35,40,1,34,5,Focus on Weak Topics
+37,42,1,36,5,Focus on Weak Topics
+39,44,1,38,5,Revise Basics
+41,46,1,40,5,Revise Basics
+43,48,2,42,6,Revise Basics
+45,50,2,45,6,Revise Basics
+47,52,2,48,6,Revise Basics
+49,55,2,50,6,Practice More
+51,58,2,52,6,Practice More
+53,60,2,55,6,Practice More
+55,63,2,58,6,Practice More
+57,66,2,60,6,Practice More
+59,68,3,62,7,Practice More
+61,70,3,65,7,Practice More
+63,72,3,68,7,Practice More
+65,74,3,70,7,Do Advanced Questions
+67,76,3,72,7,Do Advanced Questions
+69,78,3,75,7,Do Advanced Questions
+71,80,3,78,7,Do Advanced Questions
+73,82,4,80,7,Do Advanced Questions
+75,84,4,82,7,Do Advanced Questions
+77,86,4,85,7,Maintain Performance
+79,88,4,88,8,Maintain Performance
+81,90,4,90,8,Maintain Performance
+83,91,4,92,8,Maintain Performance
+85,92,5,94,8,Maintain Performance
+87,94,5,96,8,Maintain Performance
+89,95,5,98,8,Maintain Performance
+30,34,1,28,5,Focus on Weak Topics
+36,42,1,35,5,Focus on Weak Topics
+42,48,2,42,6,Revise Basics
+48,55,2,48,6,Revise Basics
+54,62,2,55,6,Practice More
+60,70,3,62,7,Practice More
+66,76,3,70,7,Do Advanced Questions
+72,82,3,78,7,Do Advanced Questions
+78,86,4,85,7,Maintain Performance
+84,91,4,92,8,Maintain Performance
+35,45,1,30,5,Focus on Weak Topics
+45,55,2,40,6,Revise Basics
+55,65,2,50,6,Practice More
+65,75,3,60,7,Do Advanced Questions
+75,85,4,70,7,Do Advanced Questions
+85,90,4,80,8,Maintain Performance
+90,95,5,90,8,Maintain Performance
+38,48,1,35,5,Focus on Weak Topics
+52,60,2,50,6,Practice More
+68,75,3,65,7,Do Advanced Questions
+82,88,4,80,8,Maintain Performance
+32,35,1,30,5,Focus on Weak Topics
+45,50,2,40,6,Revise Basics
+50,60,2,50,6,Practice More
+55,65,2,55,6,Practice More
+60,70,3,60,7,Practice More
+65,75,3,65,7,Do Advanced Questions
+70,80,3,70,7,Do Advanced Questions
+75,85,4,75,7,Do Advanced Questions
+80,85,4,80,8,Maintain Performance
+85,90,4,85,8,Maintain Performance
+90,95,5,90,8,Maintain Performance
+30,35,1,25,5,Focus on Weak Topics
+40,45,1,35,5,Revise Basics
+52,60,2,50,6,Practice More
+68,72,3,65,7,Do Advanced Questions
+78,82,4,75,7,Maintain Performance
+88,92,5,85,8,Maintain Performance
+48,55,2,45,6,Revise Basics
+58,65,2,55,6,Practice More
+62,68,3,60,7,Practice More
+72,78,3,70,7,Do Advanced Questions
+82,88,4,80,8,Maintain Performance
+92,96,5,90,8,Maintain Performance
+35,40,1,32,5,Focus on Weak Topics
+47,52,2,45,6,Revise Basics
+53,60,2,50,6,Practice More
+67,74,3,65,7,Do Advanced Questions
+77,83,4,75,7,Maintain Performance
+87,91,5,85,8,Maintain Performance
+33,38,1,30,5,Focus on Weak Topics
+44,50,2,42,6,Revise Basics
+57,66,2,55,6,Practice More
+69,76,3,68,7,Do Advanced Questions
+79,88,4,78,8,Maintain Performance
+89,93,5,88,8,Maintain Performance
+36,42,1,34,5,Focus on Weak Topics
+46,53,2,44,6,Revise Basics
+56,63,2,54,6,Practice More
+66,73,3,64,7,Do Advanced Questions
+76,83,4,74,7,Maintain Performance
+86,91,5,84,8,Maintain Performance
+31,37,1,28,5,Focus on Weak Topics
+43,49,2,40,6,Revise Basics
+54,62,2,52,6,Practice More
+64,72,3,62,7,Do Advanced Questions
+74,82,4,72,7,Maintain Performance
+84,90,4,82,8,Maintain Performance
+91,95,5,91,8,Maintain Performance
+38,45,1,35,5,Focus on Weak Topics
+49,56,2,47,6,Revise Basics
+59,66,2,57,6,Practice More
+71,77,3,69,7,Do Advanced Questions
+81,87,4,79,8,Maintain Performance
+93,97,5,92,8,Maintain Performance
+34,40,1,30,5,Focus on Weak Topics
+42,48,2,40,6,Revise Basics
+55,63,2,53,6,Practice More
+68,75,3,65,7,Do Advanced Questions
+78,85,4,75,7,Maintain Performance
+88,92,5,85,8,Maintain Performance
+28,40,1,25,5,Focus on Weak Topics
+35,45,1,30,5,Focus on Weak Topics
+42,55,2,40,6,Revise Basics
+48,60,2,45,6,Revise Basics
+52,65,2,50,6,Practice More
+58,70,2,55,6,Practice More
+63,72,3,60,7,Practice More
+68,75,3,65,7,Do Advanced Questions
+72,78,3,70,7,Do Advanced Questions
+77,82,4,75,7,Do Advanced Questions
+82,85,4,80,8,Maintain Performance
+87,90,4,85,8,Maintain Performance
+92,95,5,90,8,Maintain Performance
+30,38,1,28,5,Focus on Weak Topics
+38,48,1,35,5,Focus on Weak Topics
+45,52,2,42,6,Revise Basics
+50,58,2,48,6,Revise Basics
+55,63,2,52,6,Practice More
+60,68,3,58,7,Practice More
+65,72,3,62,7,Practice More
+70,75,3,68,7,Do Advanced Questions
+75,80,4,72,7,Do Advanced Questions
+80,85,4,78,8,Maintain Performance
+85,88,4,82,8,Maintain Performance
+90,92,5,88,8,Maintain Performance
+33,42,1,30,5,Focus on Weak Topics
+41,50,2,40,6,Revise Basics
+49,58,2,48,6,Revise Basics
+54,62,2,52,6,Practice More
+59,67,3,57,7,Practice More
+64,72,3,63,7,Practice More
+69,76,3,68,7,Do Advanced Questions
+74,80,4,72,7,Do Advanced Questions
+79,85,4,78,8,Maintain Performance
+84,89,4,82,8,Maintain Performance
+89,93,5,87,8,Maintain Performance
+31,40,1,28,5,Focus on Weak Topics
+44,52,2,42,6,Revise Basics
+53,60,2,50,6,Practice More
+61,68,3,58,7,Practice More
+69,75,3,66,7,Do Advanced Questions
+77,82,4,74,7,Do Advanced Questions
+83,88,4,80,8,Maintain Performance
+91,94,5,88,8,Maintain Performance
+36,45,1,34,5,Focus on Weak Topics
+47,55,2,44,6,Revise Basics
+56,63,2,52,6,Practice More
+65,70,3,60,7,Practice More
+73,78,3,68,7,Do Advanced Questions
+81,84,4,75,8,Maintain Performance
+88,90,5,85,8,Maintain Performance
+34,42,1,30,5,Focus on Weak Topics
+46,54,2,42,6,Revise Basics
+57,65,2,52,6,Practice More
+66,72,3,60,7,Practice More
+74,78,3,68,7,Do Advanced Questions
+82,85,4,75,8,Maintain Performance
+90,92,5,85,8,Maintain Performance
+29,38,1,25,5,Focus on Weak Topics
+43,50,2,40,6,Revise Basics
+52,60,2,50,6,Practice More
+61,68,3,58,7,Practice More
+70,75,3,65,7,Do Advanced Questions
+78,80,4,72,7,Maintain Performance
+86,88,4,78,8,Maintain Performance
+93,95,5,90,8,Maintain Performance
+37,48,1,34,5,Focus on Weak Topics
+48,55,2,45,6,Revise Basics
+58,63,2,52,6,Practice More
+67,70,3,60,7,Practice More
+75,78,3,68,7,Do Advanced Questions
+83,85,4,75,8,Maintain Performance
+91,92,5,85,8,Maintain Performance
+32,40,1,28,5,Focus on Weak Topics
+45,52,2,40,6,Revise Basics
+54,60,2,50,6,Practice More
+63,68,3,58,7,Practice More
+71,75,3,65,7,Do Advanced Questions
+79,80,4,72,7,Maintain Performance
+87,88,4,78,8,Maintain Performance
+94,95,5,90,8,Maintain Performance
