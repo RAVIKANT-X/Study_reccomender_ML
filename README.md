@@ -28,7 +28,7 @@ This project aims to provide **data-driven, personalized recommendations** using
   - Accuracy
   - F1 Score
 - Realistic synthetic dataset (500 rows)
-- Interactive web app using Streamlit
+
 
 ---
 
